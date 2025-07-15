@@ -1,4 +1,4 @@
-# Monorepo CI Done Right: Solving GitHub Actions Path Filtering Issues
+# Monorepo CI: Solving GitHub Actions Path Filtering Issues
 
 ## 🫠 Typical Problematic Setup
 
